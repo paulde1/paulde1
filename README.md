@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A adventourous developer with a passion for pushing limits on what can be done.</h3>
+<h3 align="center">An adventourous developer with a passion for pushing limits on what can be done.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulde1" alt="paulde1" /></a> </p>
 
