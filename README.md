@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java through Duke University Online Certification via. Coursera**
 
-- 👯 I’m looking for feedback on on [MeetMe](https://meetmeapp.netlify.app/)
+- 👯 I’m looking for feedback on [MeetMe](https://meetmeapp.netlify.app/)
 
 - 🤝 I’m looking for help with [The Groove](https://groove-tam0.onrender.com/)
 
