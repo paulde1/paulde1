@@ -9,17 +9,17 @@
 
 - 👯 I’m looking for feedback on [MeetMe](https://meetmeapp.netlify.app/)
 
-- 🤝 I’m looking for help with [The Groove](https://groove-tam0.onrender.com/)
+- 🤝 I’m looking for help with [FoodMap](https://foodmap.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://pauldecunha.com/](https://pauldecunha.com/)
 
-- 📝 I will be starting to write articles on [https://medium.com/@pauldecunha7117](https://medium.com/@pauldecunha7117)
+<!-- - 📝 I will be starting to write articles on [https://medium.com/@pauldecunha7117](https://medium.com/@pauldecunha7117) -->
 
 - 💬 Ask me about **React,Redux, Mui, Express, PostgreSQl and many more....**
 
 - 📫 How to reach me **contact@pauldecunha.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XdlnRcy1RCn3PeKi4yUbbNkzp0WjC-Nk/edit?usp=sharing&ouid=100309025120370545904&rtpof=true&sd=true](https://docs.google.com/document/d/1XdlnRcy1RCn3PeKi4yUbbNkzp0WjC-Nk/edit?usp=sharing&ouid=100309025120370545904&rtpof=true&sd=true)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1XdlnRcy1RCn3PeKi4yUbbNkzp0WjC-Nk/edit?usp=sharing&ouid=100309025120370545904&rtpof=true&sd=true](https://docs.google.com/document/d/1XdlnRcy1RCn3PeKi4yUbbNkzp0WjC-Nk/edit?usp=sharing&ouid=100309025120370545904&rtpof=true&sd=true) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
