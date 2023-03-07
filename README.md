@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a portfolio site](https://pauldecunha.com/)
 
-- 🌱 I’m currently learning **Java through Duke University Online Certification via. Coursera** 3/4 complete \
+- 🌱 I’m currently learning **Java through Duke University Online Certification via. Coursera** 3/4 complete 
 
 - 🌱 I’m also learning **Python through University of Michigan Online Certification via. Coursera** 1/2 complete 
 
